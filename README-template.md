@@ -41,8 +41,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/Jazzy486/age-calculator-app)
+- Live Site URL: [Age Calculator App](https://jazzy486.github.io/age-calculator-app/)
 
 ## **My Process**
 
